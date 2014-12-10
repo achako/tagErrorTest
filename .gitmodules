@@ -1,3 +1,3 @@
 [submodule "tagerrorsubmodule"]
 	path = tagerrorsubmodule
-	url = http://192.168.2.125/ahiraishi/tagerrorsubmodule.git
+url=https://github.com/achako/tagErrorSubmodule.git
